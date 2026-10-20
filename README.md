@@ -9,10 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=mingchen666&label=已被HR和同行暗中观察的次数&color=dc143c&style=for-the-badge" alt="views" />
 </p>
 
-<!-- 🌟 核心双栏布局开始 🌟 -->
 <table width="100%">
   <tr>
-    <!-- 左栏：关于我与赛博日常 -->
     <td width="50%" valign="top">
       <h3>🤖 关于我这个“碳基生物”</h3>
       <ul>
@@ -34,7 +32,6 @@
       </p>
     </td>
 
-    <!-- 右栏：明星项目展示 -->
     <td width="50%" valign="top">
       <h3>🚀 我的“亲儿子”们 (明星项目)</h3>
       <p><i>别看仓库多，这几个可是我的心头肉：</i></p>
@@ -46,14 +43,12 @@
       <p><sub>🧠 <b>拯救 AI 学习焦虑！</b>你的数据你做主，绝不偷偷上传！(Private NotebookLM 平替)</sub></p>
       <br>
 
-      <!-- 项目2：DocTranslator -->
       <a href="https://github.com/mingchen666/DocTranslator">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mingchen666&repo=DocTranslator&theme=radical&show_owner=false&border_radius=10" />
       </a>
       <p><sub>🌐 <b>多线程文档翻译神器</b>：让看英文文档不再像看天书，翻译速度比我翻脸还快！</sub></p>
       <br>
 
-      <!-- 项目3：HandText -->
       <a href="https://github.com/mingchen666/HandText">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mingchen666&repo=HandText&theme=monokai&show_owner=false&border_radius=10" />
       </a>
@@ -61,7 +56,7 @@
     </td>
   </tr>
 </table>
-<!-- 🌟 核心双栏布局结束 🌟 -->
+
 
 ---
 
